@@ -1,0 +1,57 @@
+@charset "UTF-8";
+.red{
+    background: #f00;
+    width: 400px;
+    height: 100px;
+    position: relative;
+}
+.parple{
+    background: #6729a0;
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+
+    
+}
+.green{
+    background: #0a5;
+    width: 150px;
+    height: 250px;
+}
+.blue{
+    background: #2563eb;
+    width: 250px;
+    height: 250px;
+    position: relative;
+}
+.orange{
+    background: #ff863f;
+    width: 140px;
+    height: 40px;
+    border: white solid 5px;
+    margin-bottom: 10px;
+}
+.yellow{
+    background: #fd0;
+    width: 400px;
+    height: 100px;
+}
+.flex{
+    display:flex
+}
+.p{
+    float: right;
+    background-color:white;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+.o{
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 40px;
+
+}
